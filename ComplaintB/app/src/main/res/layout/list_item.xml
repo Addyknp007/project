@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:drawableStart="@drawable/ic_action_complaint"
+    android:fontFamily="sans-serif-thin"
+    android:paddingTop="15dip"
+    android:paddingBottom="15dip"
+    android:textAllCaps="true"
+    android:textColor="@android:color/black"
+    android:textSize="20sp"
+    android:textStyle="bold" />
